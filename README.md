@@ -10,6 +10,6 @@ Sistema de back-end de um site de música, que foi feito com o objetivo de conhe
 - Exibir detalhes da banda ou album escolhido, podendo ver a média de avaliações.
 
 ### Direitos Autorais
-Direitos autorais reservados a Alura e aos professores do curso de C# com orientação a objeto:
+Direitos autorais reservados a Alura e aos professores da formação de "Aprenda a programar em C# com Orientação a Objetos":
 - Daniel Portugal - https://github.com/dpcosta
 - Guilherme Lima
